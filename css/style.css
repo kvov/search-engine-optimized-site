@@ -440,14 +440,14 @@ button {
      width: 100%;
      float: left;
      font-size: 30px;
-     color: #ffffff;
+     color: #000;
 }
 
 .lorem_text{
      width: 100%;
      float: left;
      font-size: 16px;
-     color: #ffffff;
+     color: #000;
      margin-left: 0px;
 }
 

@@ -750,7 +750,7 @@ figure:hover+span {
 .services_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/banner-bg.webp);
     padding: 30px 0px 20px 0px;
     height: auto;
     background-size: 100%;

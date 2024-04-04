@@ -755,6 +755,7 @@ figure:hover+span {
 }
 .services_section img {
      position: absolute;
+     width:100%;
      top: 0; 
      left: 50%; 
      transform: translateX(-50%);

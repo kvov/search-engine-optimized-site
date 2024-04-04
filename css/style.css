@@ -339,6 +339,11 @@ button {
      width: 100%;
      float: left;
 }
+.marketing_section.layout_padding img {
+     max-width: 100%; 
+     height: auto; 
+}
+ 
 
 .job_section{
      width: 70%;
